@@ -6,3 +6,4 @@ layout: home
 ---
 
 This is my first line with Jekyll
+And here is another one
