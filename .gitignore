@@ -1,0 +1,14 @@
+### Jekyll ###
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
+
+
+### Editing ###
+*.swp
+
+### MAC OS ###
+.DS_Store
