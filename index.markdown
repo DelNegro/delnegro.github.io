@@ -5,5 +5,4 @@
 layout: home
 ---
 
-This is my first line with Jekyll
-And here is another one
+Hi, my name is Antonio Del Negro and I am leading teams, that develop software products and services in the SAP ecosystem. With 20+ years experience in implementing end-to-end business processes in SAP environments, I have both excellent technical knowledge and also buiness process know how.
